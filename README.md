@@ -25,6 +25,11 @@
  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+     <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" width="140" height="40"/>
+</a>
+
   </a>
 </p>
 
