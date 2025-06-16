@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love learning new things**
 
+- ⚡ [Personal Website](https://gdiamel.github.io/SAMUELEMMANUELKIMARO.github.io./)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/emmanuel-samuel-4a0b7323a/" target="blank">
