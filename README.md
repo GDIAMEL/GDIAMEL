@@ -7,13 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=GDIAMEL&label=Profile%20views&color=0e75b6&style=flat" alt="GDIAMEL" />
 </p>
 
-- 🌱 I’m currently learning **software development**
-
 - 📫 How to reach me **emmanuelsamuel2523@gmail.com**
 
 - ⚡ Fun fact **I love learning new things**
 
-- ⚡ [Personal Website](https://gdiamel.github.io/SAMUELEMMANUELKIMARO.github.io./)
+- 🌱 [Personal Website](https://gdiamel.github.io/SAMUELEMMANUELKIMARO.github.io./)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
