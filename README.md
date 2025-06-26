@@ -92,10 +92,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GDIAMEL&" alt="GDIAMEL" />
 </p>
 
+<!--
 <h3 align="left">Achievements:</h3>
 <p align="left">
   <img src="https://camo.githubusercontent.com/cad088e7ebd696399397c76f919e62b686c6cdf965722f941b7ea556f0de9985/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170703f757365726e616d653d63686f6a756e696e656e6775267468656d653d6e6f726426636f6c756d6e3d2d3126726f773d31266d617267696e2d773d38266d617267696e2d683d38266e6f2d62673d66616c7365266e6f2d6672616d653d74727565266f726465723d34" alt="git" width="600"
 
+-->
     
 <!--
 **GDIAMEL/GDIAMEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
