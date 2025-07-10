@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Samuel Emmanuel Kimaro</h1>
+<h1 align="center">HI, I AM SAMUEL EMMANUEL KIMARO</h1>
 <h3 align="center">Software Developer · AI Engineer · Data Analyst from Kenya</h3>
 
 <p align="center">
